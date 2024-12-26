@@ -1,4 +1,4 @@
-from producer_consumer import MyThread
+import time, random
 from producer_consumer import SharedCell, Producer, Consumer
 
 def main():
